@@ -124,3 +124,9 @@ venv.bak/
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
+
+# Test Reports
+cover/
+
+# Approvals
+/**/*.received.*

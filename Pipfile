@@ -5,6 +5,8 @@ verify_ssl = true
 
 [dev-packages]
 approvaltests = "*"
+coverage = "*"
+nose = "*"
 
 [packages]
 
